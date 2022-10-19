@@ -16,7 +16,7 @@ int main(){
             count++;
         }
     }
-    
+
     cout << count << endl;
     return 0;
 
