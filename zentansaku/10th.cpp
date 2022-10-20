@@ -22,7 +22,9 @@ int main(){
     int ans = 0;
     for (int i=0; i<9; ++i) {
         if(count[index]<count[i]){
-            index=i;
+            //出現回数が一番大きい要素番号を保持
+            index=i;//
+            //i=A[i]-1→A[i]=i+1
             ans = i+1;
         }
 
