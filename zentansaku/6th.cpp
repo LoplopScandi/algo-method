@@ -4,20 +4,19 @@
 using namespace std;
 
 int main(){
-    int N ;
+    int N;
     cin >> N ;
     vector<int> A(N);
     for(int i; i < N; i++) cin >> A[i];
 
-    //線形探索（脳筋）
-    int count =0;
-    for(int i=0; i<N;i++){
-        if(A[i]>0){
-            count++;
-        }
-    }
+    int count = 0;
+    for (int i=0; i<N; ++i) {
 
-    cout << count << endl;
-    return 0;
+        if (A[i]>count) {
+            count=A[i];
+        }
+
+    }
+        cout << count << endl;
 
 }
