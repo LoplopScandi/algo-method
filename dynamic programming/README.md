@@ -19,5 +19,5 @@ __動的計画法は非常に汎用性の強い手法であり、コンピュー
 
 動的計画法を網羅的に学びたい方は、たとえば次のコンテンツを読んでみてください。
 
-    大槻兼資, 秋葉拓哉(監修)：問題解決力を鍛える!アルゴリズムとデータ構造, 講談社 (2020).
-    drken (Qiita)：[動的計画法超入門！ Educational DP Contest の A ～ E 問題の解説と類題集](https://qiita.com/drken/items/dc53c683d6de8aeacf5a)
+大槻兼資, 秋葉拓哉(監修)：問題解決力を鍛える!アルゴリズムとデータ構造, 講談社 (2020).
+drken (Qiita)：[動的計画法超入門！ Educational DP Contest の A ～ E 問題の解説と類題集](https://qiita.com/drken/items/dc53c683d6de8aeacf5a)
