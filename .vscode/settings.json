@@ -3,6 +3,7 @@
         "ostream": "cpp",
         "vector": "cpp",
         "iostream": "cpp",
-        "mutex": "cpp"
+        "mutex": "cpp",
+        "utility": "cpp"
     }
 }
