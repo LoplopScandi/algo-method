@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <bits/stdc++.h>
 #include <vector> 
 
 using namespace std;
@@ -42,7 +42,7 @@ int main() {
 
     // 答えを出力する
 
-    if (flag) 
+    if (count(A.begin(), A.end(), V) != 0) 
 
         cout << "Yes" << endl;
 
